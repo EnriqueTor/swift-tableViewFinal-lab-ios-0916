@@ -9,4 +9,12 @@
 import UIKit
 
 class FactTableViewCell: UITableViewCell {
+    
+    @IBOutlet weak var factTextView: UITextView!
+    
+    
+    
+    
+    
+    
 }
